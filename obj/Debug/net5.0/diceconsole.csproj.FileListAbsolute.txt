@@ -1,0 +1,16 @@
+C:\codeworks\diceconsole\bin\Debug\net5.0\diceconsole.exe
+C:\codeworks\diceconsole\bin\Debug\net5.0\diceconsole.deps.json
+C:\codeworks\diceconsole\bin\Debug\net5.0\diceconsole.runtimeconfig.json
+C:\codeworks\diceconsole\bin\Debug\net5.0\diceconsole.runtimeconfig.dev.json
+C:\codeworks\diceconsole\bin\Debug\net5.0\diceconsole.dll
+C:\codeworks\diceconsole\bin\Debug\net5.0\ref\diceconsole.dll
+C:\codeworks\diceconsole\bin\Debug\net5.0\diceconsole.pdb
+C:\codeworks\diceconsole\obj\Debug\net5.0\diceconsole.csproj.AssemblyReference.cache
+C:\codeworks\diceconsole\obj\Debug\net5.0\diceconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\codeworks\diceconsole\obj\Debug\net5.0\diceconsole.AssemblyInfoInputs.cache
+C:\codeworks\diceconsole\obj\Debug\net5.0\diceconsole.AssemblyInfo.cs
+C:\codeworks\diceconsole\obj\Debug\net5.0\diceconsole.csproj.CoreCompileInputs.cache
+C:\codeworks\diceconsole\obj\Debug\net5.0\diceconsole.dll
+C:\codeworks\diceconsole\obj\Debug\net5.0\ref\diceconsole.dll
+C:\codeworks\diceconsole\obj\Debug\net5.0\diceconsole.pdb
+C:\codeworks\diceconsole\obj\Debug\net5.0\diceconsole.genruntimeconfig.cache
